@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif"> Hi <img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif"></h1>
+<h1 align="center"><img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif" margin-right="30px"> Hi <img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif"></h1>
 <h3 align="center">Im Muhammad Athallah Raditya</h3>
 
 
