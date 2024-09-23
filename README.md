@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif" margin-right="30px"> Hi <img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif"></h1>
+<h1 align="center"><img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif" margin-right="30px"> Hi There <img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAC/shincore-wave-emoji.gif"></h1>
 <h3 align="center">Im Muhammad Athallah Raditya</h3>
 
 
@@ -12,7 +12,7 @@
  
 - 📫 You can reach me at **mathallahr37@gmail.com**
 
-<h3 align="left">You can contact with me:</h3>
+<h3 align="left">You can contact with me at :</h3>
 <p align="left">
 <a href="https://x.com/Mathallahr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
 <a href="https://www.facebook.com/M.AthallahRaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
