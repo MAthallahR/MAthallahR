@@ -4,7 +4,9 @@
 
 - 🌱 I'm 16 yo
 
-- 🏫 I'm currently at highschool  
+- 🏫 I'm currently at highschool
+
+- 📚 Cuurrently learning php,html,css,sql 
   
 - 🤝 You can call me Atha/thalah/whatever you want
 
