@@ -15,8 +15,8 @@
 - 📫 You can reach me at **mathallahr37@gmail.com**
   
 - 💌 Feel free to contact me!
-
--🎈 Rarely have a repository on Friday, Saturday and Sunday because I also need fun !
+  
+- 🎈 Rarely have a repository on Friday, Saturday and Sunday because I also need fun !
 
 <h3 align="left">You can contact with me at :</h3>
 Discord : maztardo
