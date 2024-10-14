@@ -6,7 +6,7 @@
 
 - 🏫 I'm currently at highschool
 
-- 📚 Cuurrently learning php,html,css,sql 
+- 📚 Cuurrently learning PHP,HTML,CSS,SQL 
   
 - 🤝 You can call me Atha/thalah/whatever you want
 
@@ -14,7 +14,9 @@
  
 - 📫 You can reach me at **mathallahr37@gmail.com**
   
-- 💌 Feel free to contact me! 
+- 💌 Feel free to contact me!
+
+-🎈 Rarely have a repository on Friday, Saturday and Sunday because I also need fun !
 
 <h3 align="left">You can contact with me at :</h3>
 Discord : maztardo
