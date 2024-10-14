@@ -14,7 +14,7 @@
  
 - 📫 You can reach me at **mathallahr37@gmail.com**
   
-- 💌 Feel free to contact me!
+- 💌 Feel free to contact me! (i need friend pls contact me😭)
   
 - 🎈 Rarely make/update a repository on Friday, Saturday and Sunday because I also need fun !
 
