@@ -6,7 +6,7 @@
 
 - 🏫 I'm currently at highschool
 
-- 📚 Cuurrently learning PHP,HTML,CSS,SQL 
+- 📚 Currently LEARNING C#,JAVA,HTML,CSS,PHP,SQL 
   
 - 🤝 You can call me Atha/thalah/whatever you want
 
