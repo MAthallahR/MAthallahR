@@ -10,7 +10,7 @@
   
 - 🤝 You can call me Atha/thalah/whatever you want
 
-- 🏆 My hobbies and interests are games , football , music , film , comics (some)
+- 🏆 My hobbies and interests are games , football , music , coding , film , comics (some)
  
 - 📫 You can reach me at **mathallahr37@gmail.com**
   
