@@ -8,18 +8,18 @@
 
 - 🏫 I'm currently at highschool
 
-- 📚 Currently LEARNING C#,JAVA,HTML,CSS,PHP,SQL 
+- 📚 Currently LEARNING C#,JAVA,HTML,CSS,PHP,SQL,VB.net
   
 - 🤝 You can call me Atha/thallah/whatever you want
 
 - 🏆 My hobbies and interests are games , football , music , coding , film , comics (some)
    
-- 💌 Feel free to contact me! (i need friend pls contact me😭)
+- 💌 Feel free to contact me! 
   
 - 🎈 Rarely make/update a repository on Friday, Saturday and Sunday because I also need some time to enjoy myself !
 
 <h3 align="left">You can contact with me at :</h3>
-Discord : maztardo
+Discord : monkeylayingeggs
 
 Personal ig : <a href="https://www.instagram.com/mathalahr/">@mathalahr</a>
 <h3 align="left">And my other social media :</h3>
