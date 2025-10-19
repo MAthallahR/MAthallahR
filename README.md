@@ -2,17 +2,17 @@
 <h4 align="center"><img src="https://media.tenor.com/ax1MmuY9BYMAAAAi/vibing-aigis.gif" height="50" width="50">Im Muhammad Athallah Raditya<img src="https://media.tenor.com/sz7KS3CUyfsAAAAi/chie-satonaka.gif" height="50" width="50"> </h4>
 
 
-- 🌱 I'm 16 yo
+- 🌱 I'm 17 yo
 
 - <img src="https://media.tenor.com/JryLp-yWj_QAAAAj/indonesia-flags.gif" height="17" width="17"> &nbsp;I'm Indonesian
 
 - 🏫 I'm currently at highschool
 
-- 📚 Currently LEARNING C#,JAVA,HTML,CSS,PHP,SQL,VB.net
+- 📚 Currently LEARNING Laravel
   
 - 🤝 You can call me Atha/thallah/whatever you want
 
-- 🏆 My hobbies and interests are games , football , music , coding , film , comics (some)
+- 🏆 My hobbies and interests are games , football , music , learning new things , film , comics (some)
    
 - 💌 Feel free to contact me! 
   
