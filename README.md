@@ -15,8 +15,6 @@
 - 🏆 My hobbies and interests are games , football , music , learning new things , film , comics 
    
 - 💌 Feel free to contact me! 
-  
-- 🎈 Rarely make/update a repository on Friday, Saturday and Sunday because I also need some time to enjoy myself !
 
 <h3 align="left">You can contact with me at :</h3>
 
@@ -24,7 +22,6 @@ Personal ig : <a href="https://www.instagram.com/mathalahr/">@mathalahr</a>
 <h3 align="left">And my other social media :</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/M.AthallahRaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" height="48" width="48" viewBox="0 0 48 48" /></a>
 <a href="https://www.youtube.com/@mathalahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" height="48" width="48" viewBox="0 0 48 48" /></a>
   
 </p>
