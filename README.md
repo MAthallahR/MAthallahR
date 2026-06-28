@@ -2,24 +2,23 @@
 <h4 align="center"><img src="https://media.tenor.com/ax1MmuY9BYMAAAAi/vibing-aigis.gif" height="50" width="50">Im Muhammad Athallah Raditya<img src="https://media.tenor.com/sz7KS3CUyfsAAAAi/chie-satonaka.gif" height="50" width="50"> </h4>
 
 
-- 🌱 I'm 17 yo
+- 🌱 I'm 18 yo
 
 - <img src="https://media.tenor.com/JryLp-yWj_QAAAAj/indonesia-flags.gif" height="17" width="17"> &nbsp;I'm Indonesian
 
-- 🏫 I'm currently at highschool
+- 🏫 I'm currently a fresh graduate
 
-- 📚 Currently LEARNING Laravel
+- 📚 Currently LEARNING basic cybersecurity
   
 - 🤝 You can call me Atha/thallah/whatever you want
 
-- 🏆 My hobbies and interests are games , football , music , learning new things , film , comics (some)
+- 🏆 My hobbies and interests are games , football , music , learning new things , film , comics 
    
 - 💌 Feel free to contact me! 
   
 - 🎈 Rarely make/update a repository on Friday, Saturday and Sunday because I also need some time to enjoy myself !
 
 <h3 align="left">You can contact with me at :</h3>
-Discord : monkeylayingeggs
 
 Personal ig : <a href="https://www.instagram.com/mathalahr/">@mathalahr</a>
 <h3 align="left">And my other social media :</h3>
