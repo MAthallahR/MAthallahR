@@ -12,7 +12,7 @@
   
 - 🤝 You can call me Atha/thallah/whatever you want
 
-- 🏆 My hobbies and interests are games , football , music , learning new things , film , comics 
+- 🏆 My hobbies and interests are codes, editing, games, football, music, learning new things, film, comics 
    
 - 💌 Feel free to contact me! 
 
